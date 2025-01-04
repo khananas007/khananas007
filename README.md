@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
 <h3 align="center">An enthusiastic Web developer dedicated to crafting websites and applications, while honing skills in data structures and algorithms, all in pursuit of innovative and impactful solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Aap9aJIHPRWoShMP3g5HJwHaEY%26pid%3DApi&f=1&ipt=8ec10c11879a8de1b3b7c6b07796cfd6419f0e0a253478b2d1a508f26acbdcca&ipo=images">
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
