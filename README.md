@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic web developer focused on creating impactful websites and applications, while sharpening skills in data structures and algorithms..</h3>
 <br></br>
 
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my portfolio at [Portfolio](https://my-portfolio-website-632yaxv9g-khananas007s-projects.vercel.app/)
 
-- 💬 Ask me about **MERN & UI/UX**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **md.ak002266@gmail.com**
 
