@@ -10,8 +10,6 @@
 
 - 👨‍💻 Check out my portfolio at [Portfolio](https://my-portfolio-website-632yaxv9g-khananas007s-projects.vercel.app/)
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **md.ak002266@gmail.com**
 
 - ⚡ Fun fact **I like to play Football⚽**
