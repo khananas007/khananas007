@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **DSA and DevOps**
+- 🌱 Right now Occupied in learning **DSA and DevOps**
 
 - 👨‍💻 Check out my portfolio at [Portfolio](https://my-portfolio-website-632yaxv9g-khananas007s-projects.vercel.app/)
 
