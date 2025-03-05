@@ -8,6 +8,8 @@
 
 - 🌱 At the moment I am learning **Cloud Computing and DevOps**
 
+- 💬 Ask me about MERN and DSA
+
 - 📫 How to reach me **md.ak002266@gmail.com**
 
 - ⚡ Fun fact **I like to play Football⚽**
