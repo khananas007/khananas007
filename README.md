@@ -8,8 +8,6 @@
 
 - 🌱 At the moment I am learning **Cloud Computing and DevOps**
 
-- 👨‍💻 Check out my portfolio at [Portfolio]()
-
 - 📫 How to reach me **md.ak002266@gmail.com**
 
 - ⚡ Fun fact **I like to play Football⚽**
